@@ -10,6 +10,7 @@
     "database": "d6ettpmc06f4h0",
     "password": "6b61f2e83f6a0033011066d23199b807e2377899603b3998bc693afb4407e3cd",
     "name": "postgres",
+    "ssl":true,
     "user": "uvcklkagoafqkh",
     "connector": "postgresql"
     }

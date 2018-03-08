@@ -4,13 +4,13 @@
     "connector": "memory"
   },
   "postgres": {
-    "host": "127.0.0.1",
+    "host": "ec2-23-23-177-166.compute-1.amazonaws.com",
     "port": 5432,
     "url": "",
-    "database": "TAMO",
-    "password": "postgres",
+    "database": "d6ettpmc06f4h0",
+    "password": "6b61f2e83f6a0033011066d23199b807e2377899603b3998bc693afb4407e3cd",
     "name": "postgres",
-    "user": "postgres",
+    "user": "uvcklkagoafqkh",
     "connector": "postgresql"
-  }
+    }
 }
